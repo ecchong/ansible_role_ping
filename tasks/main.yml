@@ -1,0 +1,7 @@
+---
+- name: Just a ping
+  ping:
+
+- name: DEBUG
+  debug:
+    msg: Hello World!
